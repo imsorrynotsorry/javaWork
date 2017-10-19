@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Person
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Person\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=n\ a\ g\ m
+comment1.target=Person(java.lang.String,\ int,\ java.lang.String,\ boolean)
+comment2.params=
+comment2.target=boolean\ isFemale()
+comment3.params=
+comment3.target=void\ Birthday()
+comment4.params=
+comment4.target=boolean\ isMarried()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6

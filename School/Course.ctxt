@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Course
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Course\ here.\r\n\r\n\ @author\ jay\ baltz\ (represent\!)\r\n\ @version\ 1\ duh\r\n
+comment1.params=str
+comment1.target=void\ printer(java.lang.String)
+comment2.params=index
+comment2.target=void\ printClassRoster(int)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

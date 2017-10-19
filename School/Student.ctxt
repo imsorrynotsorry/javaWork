@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Student
+comment0.text=\r\n\ \r\n\r\n\ @author\ jay\ baltz\ (represent\!)\r\n\ @version\ 1\ duh\r\n
+comment1.params=
+comment1.target=Student()
+comment10.params=id
+comment10.target=java.lang.String\ getStudentIDasString(int)
+comment2.params=fN\ lN\ sID
+comment2.target=Student(java.lang.String,\ java.lang.String,\ int)
+comment3.params=
+comment3.target=java.lang.String\ getFirstName()
+comment4.params=fN
+comment4.target=void\ setFirstName(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ getLastName()
+comment6.params=lN
+comment6.target=void\ setLastName(java.lang.String)
+comment7.params=
+comment7.target=java.lang.String\ getName()
+comment8.params=
+comment8.target=int\ getID()
+comment9.params=ID
+comment9.target=void\ setID(int)
+numComments=11

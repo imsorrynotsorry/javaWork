@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Garage
+comment1.params=str
+comment1.target=void\ pLn(java.lang.String)
+comment2.params=c
+comment2.target=void\ printCollection(Cars[])
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4
